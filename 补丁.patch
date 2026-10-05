@@ -1,0 +1,17 @@
+Subject: [PATCH] 补丁
+---
+Index: trouble test
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/trouble test b/trouble test
+--- a/trouble test	(revision 8e62df61b3cb267e360e3432aa55a7c8176919cf)
++++ b/trouble test	(revision 3ee9634e74aaa34f5052ffe3bf5d91c41813a648)
+@@ -5,3 +5,5 @@
+ 
+ 
+ second host
++
++补丁文件
+\ No newline at end of file
